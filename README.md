@@ -5,8 +5,8 @@ Description:
 A form for managing shipment details using JsonPowerDB and jQuery. Includes fields for Shipment Number, Description, Source, Destination, Shipping Date, and Expected Delivery Date. Shipment Number is the key.
 
 Benefits:
-Streamlines shipment tracking
-Schema-free
+Easy to use
+Schema-like structure for data fields (JsonPowerDB is schema-free)
 
 Release History:
 v1.0.0: Initial version
